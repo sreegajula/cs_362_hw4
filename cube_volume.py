@@ -1,2 +1,5 @@
-import unittest
-import calc
+def volume(x):
+    vol = x * x * x
+    return(vol)
+
+
